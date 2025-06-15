@@ -1,0 +1,12 @@
+# Ignore files for Linux Networking Class
+
+# Ignore any pcap files from Wireshark or Tshark
+*.pcap
+
+# Ignore any backup files
+*.bak
+
+# Ignore any tarballs or zips. These are most likely for submitting
+# work to coursera.
+*.tgz
+*.tar*
