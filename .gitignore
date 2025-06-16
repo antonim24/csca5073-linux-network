@@ -18,3 +18,7 @@
 clab-lab*/
 # The lab host directories
 lab-host*/
+
+# This is where the provided course repositories are stored.
+# I don't want to keep track of them
+provided-module-repos/
